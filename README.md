@@ -47,21 +47,31 @@ blood-donation/
 🚀 Installation
 
 git clone https://github.com/bithunabiju/blood-donation.git
+
 cd blood-donation
+
 npm install
+
 npm start
 
 🎯 Objectives
 
 Simplify blood donor registration
+
 Enable quick donor search
+
 Improve accessibility to blood donation services
+
 Support emergency blood requirements
 
 🔮 Future Enhancements
 
 Admin Dashboard
+
 Email and SMS Notifications
+
 Hospital Management Module
+
 Location-Based Donor Search
+
 Analytics Dashboard
