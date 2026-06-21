@@ -7,11 +7,17 @@ The Blood Donation Management System is a web application developed to connect b
 ✨ Features
 
 User Registration and Login
+
 Secure Authentication using JWT
+
 Donor Profile Management
+
 Blood Group-Based Donor Search
+
 Donor Availability Tracking
+
 MongoDB Database Integration
+
 Responsive User Interface
 
 🛠️ Tech Stack
@@ -19,12 +25,15 @@ Responsive User Interface
 Frontend
 
 HTML
+
 CSS
+
 JavaScript
 
 Backend
 
 Node.js
+
 Express.js
 
 Database
@@ -38,10 +47,15 @@ JWT (JSON Web Token)
 📂 Project Structure
 
 blood-donation/
+
 ├── public/
+
 ├── server/
+
 ├── package.json
+
 ├── package-lock.json
+
 └── README.md
 
 🚀 Installation
